@@ -1,0 +1,13 @@
+var = exp Value of the variable: 3 hash 	
+var = exp Value of the variable: 4 hash 	
+var = exp Value of the variable: 7 hash 	
+var = exp Value of the variable: 27 hash 	
+var = exp Value of the variable: 6 hash 	
+
+value of expression in if: 6
+var = exp Value of the variable: 29 hash 	
+var = exp Value of the variable: 10 hash 	
+
+value of expression in if: 29
+result of evaluation is :  14
+var = exp Value of the variable: 10 hash 	
